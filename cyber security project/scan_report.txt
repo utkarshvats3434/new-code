@@ -1,0 +1,67 @@
+
+--- New Scan Started: 127.0.0.1 at 2026-05-20 14:50:58 ---
+--- Scan Completed ---
+
+--- New Scan Started: 127.0.0.1 at 2026-05-20 14:57:10 ---
+--- Scan Completed ---
+
+--- New Scan Started: 192.168.1.1 at 2026-05-20 14:59:44 ---
+--- Scan Completed ---
+
+--- New Scan Started: 172.4.35.37 at 2026-05-20 15:00:09 ---
+--- Scan Completed ---
+
+--- New Scan Started: 172.4.35.1 at 2026-05-20 15:01:30 ---
+--- Scan Completed ---
+
+--- New Scan Started: 127.0.0.1 at 2026-05-20 15:04:03 ---
+[WARNING] Port 8080 is OPEN on 127.0.0.1
+--- Scan Completed ---
+
+--- New Scan Started: 127.0.0.1 at 2026-05-20 15:05:56 ---
+[WARNING] Port 8080 is OPEN on 127.0.0.1
+--- Scan Completed ---
+
+--- New Scan Started: 1638.839.38.1 at 2026-05-20 15:14:54 ---
+
+--- New Scan Started: 127.0.0.1 at 2026-05-20 15:15:11 ---
+[WARNING] Port 8080 is OPEN on 127.0.0.1
+--- Scan Completed ---
+
+--- New Scan Started: 127.0.0.1 at 2026-05-20 15:18:38 ---
+--- Scan Completed ---
+
+--- New Scan Started: 127.0.0.1 at 2026-05-20 15:19:29 ---
+[WARNING] Port 8080 is OPEN on 127.0.0.1
+--- Scan Completed ---
+
+--- New Scan Started: 172.4.35.1 at 2026-05-20 15:20:10 ---
+--- Scan Completed ---
+
+--- New Scan Started: 169.254.0.0 at 2026-05-20 15:20:52 ---
+--- Scan Completed ---
+
+--- New Scan Started: 127.0.0.1 at 2026-05-20 15:21:41 ---
+[WARNING] Port 8080 is OPEN on 127.0.0.1
+--- Scan Completed ---
+
+--- New Scan Started: 8.8.4.4 at 2026-05-20 15:22:07 ---
+[WARNING] Port 53 is OPEN on 8.8.4.4
+[WARNING] Port 443 is OPEN on 8.8.4.4
+--- Scan Completed ---
+
+--- New Scan Started: 127.0.0.1 at 2026-05-20 15:30:55 ---
+[WARNING] Port 8080 is OPEN on 127.0.0.1
+--- Scan Completed ---
+
+--- New Scan Started: 127.0.0.1 at 2026-05-20 15:58:39 ---
+[WARNING] Port 8080 is OPEN on 127.0.0.1
+--- Scan Completed ---
+
+--- New Scan Started: 127.0.0.1 at 2026-05-20 19:46:15 ---
+[WARNING] Port 8080 is OPEN on 127.0.0.1
+--- Scan Completed ---
+
+--- New Scan Started: 127.0.0.1 at 2026-05-20 19:47:00 ---
+[WARNING] Port 8080 is OPEN on 127.0.0.1
+--- Scan Completed ---
