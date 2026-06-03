@@ -1,0 +1,5 @@
+a = ("utkarsh")
+# print(a)
+a.remove("t")
+a.update("k")
+print(a)

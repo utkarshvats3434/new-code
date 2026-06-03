@@ -1,4 +1,10 @@
 name = "utkarsh"
+friend = "Mohit"
+anotherFriend = "aniket"
+apple = '''He said hey i am a good boy'''
+print("hello, " + name)
+print("hello, " + friend)
+print("hello, " + anotherFriend)
 print(name.upper())
 print(name.capitalize())
 friend = "Mohit"

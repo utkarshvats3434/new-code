@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+# for i in range (12):
+#     print("5 *", i + 1, "=", 5 * (i + 1))
+#     if i == 10:
+#         break
+# print("loop se bahar chale jaon")
+
+# for j in range (12):
+#     if(j == 10):
+#         print("skip the iteration")
+#         continue
+#     print("5 *", j, "=", 5 * j)
+=======
 for i in range (12):
     print("5 *", i + 1, "=", 5 * (i + 1))
     if i == 10:
@@ -9,6 +22,7 @@ for j in range (12):
         print("skip the iteration")
         continue
     print("5 *", j, "=", 5 * j)
+>>>>>>> fad7d7e (utkarshg)
 
 i = 0
 while True:

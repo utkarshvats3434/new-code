@@ -1,4 +1,11 @@
 #exercise 1
+print(4+4)
+print(4-4)
+print(4*4)
+print(4/4)  
+print(4//4)
+print(4%4)
+print(4**4)
 a = int(input("Enter a number A: "))
 b = int(input("Enter a number B: "))
 print(a+b)
@@ -8,3 +15,4 @@ print(a/b)
 print(a//b)
 print(a%b)
 print(a**b)
+

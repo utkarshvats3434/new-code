@@ -1,4 +1,6 @@
 #string slicing
+names = "utkarsh anisha"
+print(len(names)) 
 names = "utkarsh" "anisha"
 print(int(len(names)))
 # print("utkarsh and anisha having ",len(names)," letter words")

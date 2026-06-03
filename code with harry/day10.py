@@ -1,4 +1,7 @@
 #taking user from input
+ 
+# int(input("enter a nunmber:"))
+# name = input("enter your name " )
 a = int(input("enter a nunmber:"))
 name = input("enter your name " )
 a = input("enter your name:")
